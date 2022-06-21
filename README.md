@@ -3,9 +3,7 @@
 
 <table>
     <tr>
-      <td>Hi There,</td><td><img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif"></td>
+      <td>Hi There,\nI am a computer engineer and a software engineer.</td><td><img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif"></td>
     </tr>
-    <tr>
-         <td>I am a computer engineer and a software engineer.</td>
-    </tr>
+   
 </table>
